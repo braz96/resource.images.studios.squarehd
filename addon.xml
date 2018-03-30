@@ -6,7 +6,7 @@
 	</requires>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Square HD Studio Icons</summary>
-		<description lang="en">Square, high-definition studio icons with solid backgrounds.</description>
+		<description lang="en">Square, high-definition (512x512px) studio icons with solid backgrounds.</description>
 		<platform>all</platform>
 		<license>Creative Commons Attribution-Share Alike 3.0 United States</license>
 		<forum></forum>
